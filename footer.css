@@ -3,14 +3,16 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    font-family: sans-serif;
+    
+    
+    
 }
 
 footer{
     width: 100%;
     background: #202020;
     color: white;   
-    
+    font-family: sans-serif;
 }
 
 .container-footer-all{
@@ -18,25 +20,32 @@ footer{
     max-width: 1200px;
     margin: auto;
     padding: 40px;
+    font-family: sans-serif;
+
 }
 
 .container-body{
     display: flex;
     justify-content: space-between;
+    font-family: sans-serif;
 }
 
 .colum1{
     max-width: 400px;
+    font-family: sans-serif;
 }
 
 .colum1 h1{
     font-size: 22px;
+    font-family: sans-serif;
+
 }
 
 .colum1 p{
     font-size: 14px;
     color: #C7C7C7;
     margin-top: 20px;
+    font-family: sans-serif;
 }
 
 .colum2{
@@ -46,6 +55,7 @@ footer{
 
 .colum2 h1{
     font-size: 22px;
+    font-family: sans-serif;
 }
 
 .ruw{
@@ -62,6 +72,7 @@ footer{
     margin-top: 10px;
     margin-left: 20px;
     color: #C7C7C7;
+    font-family: sans-serif;
 }
 
 .colum3{
@@ -70,6 +81,7 @@ footer{
 
 .colum3 h1{
     font-size: 22px;
+    font-family: sans-serif;
 }
 
 .ruw2{
@@ -86,6 +98,7 @@ footer{
     margin-top: 10px;
     margin-left: 20px;
     max-width: 140px;
+    font-family: sans-serif;
 }
 
 .container-footer{
@@ -103,17 +116,20 @@ footer{
 
 .copyright{
     color: #C7C7C7;
+    font-family: sans-serif;
 }
 
 .copyright a{
     text-decoration: none;
     color: white;
     font-weight: bold;
+    font-family: sans-serif;
 }
 
 .information a{
     text-decoration: none;
     color: #C7C7C7;
+    font-family: sans-serif;
 }
 
 

@@ -313,7 +313,7 @@ section {
 }
 .containers div:hover{
 	border: 3 solid rgb(58, 202, 114);
-	margin: 6px;
+	margin: 4px;
 }
 /* cartelera de soundtracks*/
 .containerss{
@@ -334,4 +334,13 @@ section {
 	border: 3 solid rgb(230, 236, 233);
 	margin: 6px;
 }
+ 
+/*descripcion soundtracks*/
+div.desc {
+    padding: 15px;
+    text-align: center;
+    text-size-adjust: 10em;
+    
+    color: whitesmoke;
+  }
 

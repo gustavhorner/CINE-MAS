@@ -1,4 +1,4 @@
-const users = ['Perfil 1','Alguien','Nicolái','Carlos'];
+const users = ['Perfil 1','Alguien','Nicolái'];
 
 
 
