@@ -308,10 +308,30 @@ section {
 }
 .containers div{
 	background:var(--negro);
-	padding:1;
+	padding:3px;
 	
 }
 .containers div:hover{
 	border: 3 solid rgb(58, 202, 114);
 	margin: 6px;
 }
+/* cartelera de soundtracks*/
+.containerss{
+	display: grid;
+	background-color: var(--negro);
+	
+	grid-template-columns: repeat(4, 1fr);
+	gap: 10;
+	grid-template-rows: minmax(100px auto);
+	
+}
+.containerss div{
+	background:var(--negro);
+	padding: 6px;;
+	
+}
+.containerss div:hover{
+	border: 3 solid rgb(230, 236, 233);
+	margin: 6px;
+}
+
